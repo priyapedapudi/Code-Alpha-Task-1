@@ -1,0 +1,148 @@
+.company-name {
+    color: #ffffff;
+}
+
+#navItem1 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.bg-container {
+    background-color: #DC143C;
+}
+
+
+.home-bg-container {
+    background-color: #DC143C;
+}
+
+.girl-img {
+
+    margin: 10px;
+
+}
+
+.heading-arrangement {
+    text-align: center;
+    justify-content: center;
+}
+
+.home-heading {
+    color: #ffffff;
+    font-size: 25px;
+    font-style: Roboto;
+}
+
+.home-name-heading {
+    color: #ffffff;
+    font-size: 30px;
+    font-style: Roboto;
+}
+
+.home-role-heading {
+    color: #ffffff;
+    font-size: 25px;
+    font-style: Roboto;
+}
+
+.aboutme-para {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.icon {
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.follow-us-icon-container {
+    border-radius: 40px;
+    width: 60px;
+    height: 60px;
+    background-color: #0099cc;
+    padding-top: 22px;
+    padding-bottom: 16px;
+    padding-right: 16px;
+    padding-left: 16px;
+    margin: 15px;
+}
+
+.aboutme-tech {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.contact-list {
+    color: #0099cc;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.list-items {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.section-heading {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.education-list-white {
+    color: #ffffff;
+}
+
+.education-list-blue {
+    color: #0099cc;
+}
+
+.project-title {
+    color: #ffffff;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.project-desc {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.contact_content input {
+    border: 1px solid #dfdfdf;
+    padding: 8px;
+    width: 50%;
+    border-radius: 3px;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+.contact {
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.footer-sec {
+    background-color: #36454F;
+    color: #ffffff;
+}
